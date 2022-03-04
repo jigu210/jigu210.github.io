@@ -51,7 +51,7 @@
 			background-size: cover;
 			background-position: center center;
 			background-repeat: no-repeat;
-			background-color: #5C83D9;
+			background-color: green;
 		}
 
 		h1
