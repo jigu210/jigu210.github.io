@@ -17,19 +17,16 @@
 		<ProfileBox />
 	</div>
 	<div class="right">
-		<div class="section">
+		<!-- <div class="section">
 			<h3>About</h3>
-			<p>My name is Jigar. I'm a systems engineer and full-stack software engineer, mostly doing work in Go, TypeScript, and C. I've been building software for { building_software_years } years.</p>
-			<p>I am a backend software engineer at <a href="https://tanium.com" target="_blank">Tanium</a>, building cloud web services.</p>
-			<p>I'm also the co-founder and CTO of <a href="https://spiretechnology.com" target="_blank">Spire Technology</a>, where we build a video transcoding and streaming platform used by many of the biggest television shows.</p>
-		</div>
+		</div> -->
 		<div class="section">
-			<h3>Work &amp; Projects</h3>
+			<h3>Work &amp; Experience</h3>
 			<ProjectsList projects={WorkProjects}></ProjectsList>
 		</div>
 		<div class="section">
-			<h3>Open Source</h3>
-			<ReposList repos={Repos}></ReposList>
+			<!-- <h3>Open Source</h3>
+			<ReposList repos={Repos}></ReposList> -->
 		</div>
 		<div class="copyright">
 			&copy; { new Date().getFullYear() } Jigar Patel
@@ -44,10 +41,9 @@
 		padding: 20px;
 		margin: 0 auto;
 
-		> .left
-		{
-			
-		}
+		// > .left
+		// {	
+		// }
 
 		> .right
 		{
