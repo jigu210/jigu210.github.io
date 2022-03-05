@@ -19,7 +19,7 @@ export const WorkProjects: IProject[] = [
         period: '01/2020-1/2021',
         url: undefined,
         description: [
-            'Managed the accounting end of 35 hotel properties through site visits, dashboard creatine, and cost reduction.',
+            'Managed the accounting end of 35 hotel properties through site visits, dashboard creation, and cost reduction.',
         ],
         images: [
             
