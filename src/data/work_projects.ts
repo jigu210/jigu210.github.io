@@ -16,7 +16,7 @@ export const WorkProjects: IProject[] = [
     {
         title: 'Lighthouse Investments',
         subtitle: 'Portfolio Manager',
-        period: '01/2020-1/2021 –',
+        period: '01/2020-1/2021',
         url: undefined,
         description: [
             'Managed the accounting end of 35 hotel properties through site visits, dashboard creatine, and cost reduction.',
@@ -31,7 +31,7 @@ export const WorkProjects: IProject[] = [
     {
         title: 'BluePrint Alpha',
         subtitle: 'Software Engineer Intern',
-        period: '5/2017-7/2017 –',
+        period: '5/2017-7/2017',
         url: undefined,
         description: [
             'I contributed to the development of a 3D computer vision application: frontend development, cataloging, and testing.',

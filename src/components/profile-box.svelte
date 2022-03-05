@@ -40,19 +40,19 @@
 		max-width: 360px;
 		margin: 0 auto;
 
-		// > .pic
-		// {
-		// 	$pic-size: 120px;
+		> .pic
+		{
+			$pic-size: 120px;
 
-		// 	display: inline-block;
-		// 	width: $pic-size;
-		// 	height: $pic-size;
-		// 	border-radius: math.div($pic-size, 2);
-		// 	background-size: cover;
-		// 	background-position: center center;
-		// 	background-repeat: no-repeat;
-		// 	background-color: green;
-		// }
+			display: inline-block;
+			width: $pic-size;
+			height: $pic-size;
+			border-radius: math.div($pic-size, 2);
+			background-size: cover;
+			background-position: center center;
+			background-repeat: no-repeat;
+			background-color: black;
+		}
 
 		h1
 		{
