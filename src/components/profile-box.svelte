@@ -13,12 +13,12 @@
     <hr />
 
 	<div class="socials">
-		<a
+		<!-- <a
 			class="social-icon github"
 			target="_blank"
 			href="https://github.com/jigu210">
 			<FontAwesomeIcon icon={faGithub}></FontAwesomeIcon>
-		</a>
+		</a> -->
 		<a
 			class="social-icon email"
 			href="mailto:jigarkpat@gmail.com">
