@@ -16,7 +16,7 @@ export const WorkProjects: IProject[] = [
     {
         title: 'Lighthouse Investments',
         subtitle: 'Portfolio Manager',
-        period: '01/2020-1/2021',
+        period: '1/2020-1/2021',
         url: undefined,
         description: [
             'Managed the accounting end of 35 hotel properties through site visits, dashboard creation, and cost reduction.',
