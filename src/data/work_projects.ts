@@ -4,7 +4,7 @@ export const WorkProjects: IProject[] = [
     {
         title: 'AJS Remodeling',
         subtitle: 'Co-Founder',
-        period: '11/2021 –',
+        period: '2/2021 –',
         url: undefined,
         description: [
             'I currently manage a construction remodeling company through all stages of execution: draft scope of work, design mockups, timeline creation, billing followup.'
@@ -46,7 +46,7 @@ export const WorkProjects: IProject[] = [
     {
         title: 'Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (B.A.P.S.)',
         subtitle: 'Regional Core Team Lead',
-        period: '8/2017-',
+        period: '8/2014-',
         url: undefined,
         description: [
             'As the team lead, I manage a team of 16 members to create content used at temples across North America and for regional/national events',
