@@ -45,7 +45,7 @@ export const WorkProjects: IProject[] = [
     },
     {
         title: 'Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (B.A.P.S.)',
-        subtitle: 'SRegional Core Team Lead',
+        subtitle: 'Regional Core Team Lead',
         period: '8/2017-',
         url: undefined,
         description: [
